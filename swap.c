@@ -2,8 +2,8 @@
 
 int main(void)
 {
-    int x = 34;
-    int y = 50;
+    int x = 17;
+    int y = 51;
     
     printf("x is %i\n", x);
     printf("y is %i\n", y);
